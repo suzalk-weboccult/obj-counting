@@ -1,9 +1,8 @@
 import numpy as np
 import cv2
 
-
-
 # Non-max suppression function
+
 def non_max_suppression_fast(boxes, overlapThresh=0.7):
     if len(boxes) == 0:
         return []
