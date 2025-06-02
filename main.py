@@ -1,3 +1,9 @@
+
+#TODO Add proper commenting and doc string 
+#TODO: make it in class and object why it is only in one file 
+#TODO: Code  seems to be generated from the AI , there are instrudction for not to use the AI 
+#TODO : why not saving the output video? it is needed for verification of the counting and debugging the logic 
+
 import cv2
 import numpy as np
 import time
